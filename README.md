@@ -1,4 +1,6 @@
-You'll be building an interface for a delivery-restaurant.
+Interface for a delivery-restaurant.
+
+MVP pattern with a router and multiple model, controller and repositories.
 
 The software runs in one restaurant only.
 
